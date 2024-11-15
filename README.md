@@ -16,5 +16,3 @@ Prueba de funcionamiento
 ![imagen](https://github.com/user-attachments/assets/aa2aa5c8-f5e6-46c3-96a0-9916307ec683)
 
 
-![imagen](https://github.com/user-attachments/assets/e98392bc-d37b-47ec-a281-d9ba40e16524)
-
